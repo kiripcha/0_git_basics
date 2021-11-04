@@ -37,7 +37,12 @@ Conversion notes:
 ![image](https://user-images.githubusercontent.com/70681104/140423666-dae4ab78-b643-4b67-8967-5820190d9658.png)
 
 5. На локальной машине пишем скрипт ~/git/test/backup.sh, с произвольным содержанием
+![image](https://user-images.githubusercontent.com/70681104/140427296-10555d08-0ada-484a-8e07-b137ad212df4.png)
+
 6. Фиксируем скрипт в репозитории (делаем коммит)
+![image](https://user-images.githubusercontent.com/70681104/140426557-976b93ba-6b48-46f9-84df-8889c23cf6c2.png)
+![image](https://user-images.githubusercontent.com/70681104/140427490-cae6318a-38d0-4b6f-bd98-40d221a6be5b.png)
+
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
 8. Через текстовый редактор добавить любую новую строку с комментарием
 9. Сделать коммит
