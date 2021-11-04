@@ -41,17 +41,34 @@ Conversion notes:
 
 6. Фиксируем скрипт в репозитории (делаем коммит)
 ![image](https://user-images.githubusercontent.com/70681104/140426557-976b93ba-6b48-46f9-84df-8889c23cf6c2.png)
+
 ![image](https://user-images.githubusercontent.com/70681104/140427490-cae6318a-38d0-4b6f-bd98-40d221a6be5b.png)
 
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+![image](https://user-images.githubusercontent.com/70681104/140428280-ea952c45-9016-4da9-ba1c-ceaa08cb7891.png)
+
 8. Через текстовый редактор добавить любую новую строку с комментарием
+![image](https://user-images.githubusercontent.com/70681104/140428407-01a28fc2-43bd-4f58-8203-d105cd429b2a.png)
+
 9. Сделать коммит
+![image](https://user-images.githubusercontent.com/70681104/140428542-6361943b-ecf5-447a-a530-ecc7d6037910.png)
+
 10. Вности синтаксическую ошибку в скрипт
+![image](https://user-images.githubusercontent.com/70681104/140428687-162fcd4a-1527-41cd-a0a0-c05a91b37408.png)
+
 11. Сделать коммит ошибочного скрипта
+![image](https://user-images.githubusercontent.com/70681104/140428832-2bfd26fe-152a-4245-a235-836c39906d9e.png)
+
 12. Откатываем до последней рабочей версии
+![image](https://user-images.githubusercontent.com/70681104/140429237-5cfa83ac-ec52-4d45-9a78-ed64fd7ffc25.png)
+
+![image](https://user-images.githubusercontent.com/70681104/140429471-1fa314bf-d0f4-424f-9e51-13f88a31df4f.png)
+
 13. Просмотреть историю коммитов
-15. Добавить несколько коммитов произвольного содержимого
-16. Создать пулл реквест в данный репозиторий
+![image](https://user-images.githubusercontent.com/70681104/140429560-aba5d422-c974-4f1c-9e42-4d44bb0549a6.png)
+
+14. Добавить несколько коммитов произвольного содержимого
+15. Создать пулл реквест в данный репозиторий
 
 
 ### Контрольные вопросы
